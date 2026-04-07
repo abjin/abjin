@@ -12,11 +12,13 @@
 대규모 트래픽 처리와 RAG 기반 지능형 서비스 개발을 통해, 사람들에게 가치를 제공하는 소프트웨어를 만드는 데 집중해왔습니다.
 
 - 🏢 **Former Back-end Part Leader** @ Cashwalk (Nudge Healthcare)
+- 🔬 **Undergraduate Researcher** @ Korea University DMIS Lab
+- 🧪 **Research Intern** @ AIGEN Sciences
 - 🎓 **B.S. in Mobile Systems Engineering** @ Dankook University (GPA: 4.07/4.5)
 - 🚀 **DAU 40만 규모** 대용량 채팅 시스템 설계 및 개발 경험
 - 🌍 북미/유럽 대상 **글로벌 서비스** 백엔드 시스템 설계 및 개발
 - 🤖 **RAG & LLM Agent** 기반 AI 서비스 개발
-- 📚 **Research Interests**: RAG, Domain-Specific LLM, AI Agent
+- 📚 **Research Interests**: Visual Document Retrieval, Multimodal RAG, Knowledge Agent
 
 ## 🛠️ Tech Stack
 
